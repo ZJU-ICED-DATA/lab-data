@@ -1,6 +1,17 @@
 {
- "updatedAt": "2026-10-19T20:37:35Z",
+ "updatedAt": "2026-10-19T12:47:43.108Z",
  "records": [
+  {
+   "id": "usage_test_1792414061",
+   "type": "usage",
+   "date": "1999-01-01",
+   "time": "12:00",
+   "name": "旧日期测试",
+   "device": "X",
+   "hours": 1,
+   "reaction": "x",
+   "serverTime": "2026-10-19T12:47:42.682Z"
+  },
   {
    "id": "u_mvf7s4w3i6dbk",
    "type": "usage",
