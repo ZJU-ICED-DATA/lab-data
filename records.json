@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-10-19T12:34:47.197Z",
+ "updatedAt": "2026-10-19T12:35:23.631Z",
  "records": [
+  {
+   "id": "u_mvf7hh6x2u8h2",
+   "type": "usage",
+   "date": "2026-10-19",
+   "time": "20:03",
+   "name": "张铭甲",
+   "device": "管式炉 1 号",
+   "hours": 3,
+   "endTime": "23:03",
+   "reaction": "600度",
+   "hazards": [
+    "高温",
+    "高压"
+   ],
+   "note": "",
+   "createdAt": "2026-10-19T12:03:47.913Z",
+   "serverTime": "2026-10-19T12:03:49.129Z"
+  },
+  {
+   "id": "u_mvf7ifawfz2to",
+   "type": "usage",
+   "date": "2026-10-19",
+   "time": "20:04",
+   "name": "王艳青",
+   "device": "管式炉 2 号",
+   "hours": 8,
+   "endTime": "04:04（次日）",
+   "reaction": "6666",
+   "hazards": [
+    "高压",
+    "易燃易爆"
+   ],
+   "note": "",
+   "createdAt": "2026-10-19T12:04:32.120Z",
+   "serverTime": "2026-10-19T12:04:33.186Z"
+  },
   {
    "id": "u_mvf7s4w3i6dbk",
    "type": "usage",
@@ -25,58 +61,6 @@
    ],
    "note": "",
    "createdAt": "2026-10-19T12:12:05.187Z"
-  },
-  {
-   "id": "u_mvf7t61puo29k",
-   "type": "usage",
-   "date": "2026-10-19",
-   "time": "20:12",
-   "name": "吴乾宇",
-   "device": "旋转蒸发仪",
-   "hours": 4,
-   "endTime": "00:12（次日）",
-   "reaction": "99",
-   "hazards": [
-    "高温",
-    "高压",
-    "易燃易爆",
-    "有毒有害",
-    "腐蚀性",
-    "低温",
-    "真空",
-    "高电压",
-    "辐射",
-    "其他"
-   ],
-   "note": "",
-   "createdAt": "2026-10-19T12:12:53.341Z"
-  },
-  {
-   "id": "c_mvf7usxyh94w2",
-   "type": "check",
-   "date": "2026-10-19",
-   "time": "20:14",
-   "name": "曹宁",
-   "checks": {
-    "water": true,
-    "power": true,
-    "gas": true,
-    "device": true
-   },
-   "verdict": "ok",
-   "issue": "",
-   "usageIds": [
-    "u_mvf66oyd4p892",
-    "u_mvf7hh6x2u8h2",
-    "u_mvf7ifawfz2to",
-    "u_mvf7s4w3i6dbk",
-    "u_mvf7t61puo29k"
-   ],
-   "photos": [
-    "p_mvf7usxyacmp8",
-    "p_mvf7usxym9s8d"
-   ],
-   "createdAt": "2026-10-19T12:14:09.670Z"
   },
   {
    "id": "u_mvf7zu2itgojj",
@@ -110,41 +94,6 @@
    ],
    "note": "",
    "createdAt": "2026-10-19T12:26:17.482Z"
-  },
-  {
-   "id": "c_mvf8l8zojmj29",
-   "type": "check",
-   "date": "2026-10-19",
-   "time": "20:34",
-   "name": "王艳青",
-   "checks": {
-    "water": true,
-    "power": true,
-    "gas": true,
-    "device": true
-   },
-   "verdict": "ok",
-   "issue": "",
-   "usageIds": [
-    "u_mvf8aeiyoen2p",
-    "u_mvf7zu2itgojj",
-    "u_mvf7s4w3i6dbk",
-    "u_mvf7ifawfz2to",
-    "u_mvf7hh6x2u8h2",
-    "u_mvf66oyd4p892"
-   ],
-   "photos": [
-    "p_mvf8l8zo6wnlt"
-   ],
-   "photoMeta": [
-    {
-     "id": "p_mvf8l8zo6wnlt",
-     "usageId": "u_mvf7s4w3i6dbk",
-     "device": "气相色谱",
-     "owner": "吴乾宇"
-    }
-   ],
-   "createdAt": "2026-10-19T12:34:43.524Z"
   }
  ]
 }
