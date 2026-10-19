@@ -1,24 +1,6 @@
 {
- "updatedAt": "2026-10-19T12:33:57.856Z",
+ "updatedAt": "2026-10-19T12:34:10.191Z",
  "records": [
-  {
-   "id": "u_mvf7hh6x2u8h2",
-   "type": "usage",
-   "date": "2026-10-19",
-   "time": "20:03",
-   "name": "张铭甲",
-   "device": "管式炉 1 号",
-   "hours": 3,
-   "endTime": "23:03",
-   "reaction": "600度",
-   "hazards": [
-    "高温",
-    "高压"
-   ],
-   "note": "",
-   "createdAt": "2026-10-19T12:03:47.913Z",
-   "serverTime": "2026-10-19T12:03:49.129Z"
-  },
   {
    "id": "u_mvf7ifawfz2to",
    "type": "usage",
