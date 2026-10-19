@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T12:14:14.973Z",
+ "updatedAt": "2026-10-19T12:18:05.495Z",
  "records": [
   {
    "id": "u_mvf66oyd4p892",
@@ -131,6 +131,23 @@
     "p_mvf7usxym9s8d"
    ],
    "createdAt": "2026-10-19T12:14:09.670Z"
+  },
+  {
+   "id": "u_mvf7zu2itgojj",
+   "type": "usage",
+   "date": "2026-10-19",
+   "time": "20:18",
+   "name": "王梓晖",
+   "device": "旋转蒸发仪",
+   "hours": 3,
+   "endTime": "23:17",
+   "reaction": "800",
+   "hazards": [
+    "高温",
+    "高压"
+   ],
+   "note": "",
+   "createdAt": "2026-10-19T12:18:04.410Z"
   }
  ]
 }
