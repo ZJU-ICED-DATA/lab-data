@@ -1,24 +1,6 @@
 {
- "updatedAt": "2026-10-19T12:34:10.191Z",
+ "updatedAt": "2026-10-19T12:34:20.003Z",
  "records": [
-  {
-   "id": "u_mvf7ifawfz2to",
-   "type": "usage",
-   "date": "2026-10-19",
-   "time": "20:04",
-   "name": "王艳青",
-   "device": "管式炉 2 号",
-   "hours": 8,
-   "endTime": "04:04（次日）",
-   "reaction": "6666",
-   "hazards": [
-    "高压",
-    "易燃易爆"
-   ],
-   "note": "",
-   "createdAt": "2026-10-19T12:04:32.120Z",
-   "serverTime": "2026-10-19T12:04:33.186Z"
-  },
   {
    "id": "u_mvf7s4w3i6dbk",
    "type": "usage",
