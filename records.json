@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T12:47:43.108Z",
+ "updatedAt": "2026-10-19T12:53:29.370Z",
  "records": [
   {
    "id": "u_mvf7s4w3i6dbk",
@@ -115,6 +115,26 @@
     }
    ],
    "createdAt": "2026-10-19T12:37:06.208Z"
+  },
+  {
+   "id": "u_mvf99by9u08rg",
+   "type": "usage",
+   "date": "2026-10-19",
+   "time": "20:53",
+   "name": "魏夏静",
+   "device": "马弗炉通风橱左",
+   "hours": 3,
+   "longTerm": false,
+   "endTime": "23:53",
+   "reaction": "甲烷干重整",
+   "hazards": [
+    "高温",
+    "高压",
+    "易燃易爆",
+    "有毒有害"
+   ],
+   "note": "",
+   "createdAt": "2026-10-19T12:53:27.105Z"
   }
  ]
 }
