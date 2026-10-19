@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T12:34:20.003Z",
+ "updatedAt": "2026-10-19T12:34:47.197Z",
  "records": [
   {
    "id": "u_mvf7s4w3i6dbk",
@@ -110,6 +110,41 @@
    ],
    "note": "",
    "createdAt": "2026-10-19T12:26:17.482Z"
+  },
+  {
+   "id": "c_mvf8l8zojmj29",
+   "type": "check",
+   "date": "2026-10-19",
+   "time": "20:34",
+   "name": "王艳青",
+   "checks": {
+    "water": true,
+    "power": true,
+    "gas": true,
+    "device": true
+   },
+   "verdict": "ok",
+   "issue": "",
+   "usageIds": [
+    "u_mvf8aeiyoen2p",
+    "u_mvf7zu2itgojj",
+    "u_mvf7s4w3i6dbk",
+    "u_mvf7ifawfz2to",
+    "u_mvf7hh6x2u8h2",
+    "u_mvf66oyd4p892"
+   ],
+   "photos": [
+    "p_mvf8l8zo6wnlt"
+   ],
+   "photoMeta": [
+    {
+     "id": "p_mvf8l8zo6wnlt",
+     "usageId": "u_mvf7s4w3i6dbk",
+     "device": "气相色谱",
+     "owner": "吴乾宇"
+    }
+   ],
+   "createdAt": "2026-10-19T12:34:43.524Z"
   }
  ]
 }
