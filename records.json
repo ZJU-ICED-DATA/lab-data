@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T12:36:20.937Z",
+ "updatedAt": "2026-10-19T12:36:33.934Z",
  "records": [
   {
    "id": "u_mvf7s4w3i6dbk",
@@ -118,6 +118,30 @@
     }
    ],
    "createdAt": "2026-10-19T12:34:43.524Z"
+  },
+  {
+   "id": "c_mvf8nlajq21p4",
+   "type": "check",
+   "date": "2026-10-19",
+   "time": "20:36",
+   "name": "张铭甲",
+   "checks": {
+    "water": true,
+    "power": true,
+    "gas": true,
+    "device": true
+   },
+   "verdict": "ok",
+   "issue": "",
+   "usageIds": [
+    "u_mvf8aeiyoen2p",
+    "u_mvf7zu2itgojj",
+    "u_mvf7s4w3i6dbk",
+    "u_mvf7ifawfz2to"
+   ],
+   "photos": [],
+   "photoMeta": [],
+   "createdAt": "2026-10-19T12:36:32.779Z"
   }
  ]
 }
