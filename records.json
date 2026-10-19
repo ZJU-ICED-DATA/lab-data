@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T12:18:05.495Z",
+ "updatedAt": "2026-10-19T12:26:18.720Z",
  "records": [
   {
    "id": "u_mvf66oyd4p892",
@@ -148,6 +148,22 @@
    ],
    "note": "",
    "createdAt": "2026-10-19T12:18:04.410Z"
+  },
+  {
+   "id": "u_mvf8aeiyoen2p",
+   "type": "usage",
+   "date": "2026-10-19",
+   "time": "20:26",
+   "name": "贲家鑫",
+   "device": "手套箱",
+   "hours": 2,
+   "endTime": "22:26",
+   "reaction": "99985",
+   "hazards": [
+    "高温"
+   ],
+   "note": "",
+   "createdAt": "2026-10-19T12:26:17.482Z"
   }
  ]
 }
