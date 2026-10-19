@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T12:32:50.575Z",
+ "updatedAt": "2026-10-19T12:33:00.329Z",
  "records": [
   {
    "id": "u_mvf66oyd4p892",
@@ -131,14 +131,12 @@
    "device": "手套箱",
    "hours": 2,
    "endTime": "22:26",
-   "reaction": "999℃",
+   "reaction": "99985",
    "hazards": [
     "高温"
    ],
    "note": "",
-   "createdAt": "2026-10-19T12:26:17.482Z",
-   "longTerm": false,
-   "updatedAt": "2026-10-19T12:32:49.491Z"
+   "createdAt": "2026-10-19T12:26:17.482Z"
   }
  ]
 }
